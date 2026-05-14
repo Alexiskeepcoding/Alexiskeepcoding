@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">👨‍💻 Software Engineering Student | Tech Enthusiast | Linux Learner<br><br>👨‍🎓 I'm a passionate Software Engineering student, always eager to learn and grow.<br>💡 I enjoy solving complex problems and building projects with modern technologies.<br>🚀 Currently, I'm diving deep into Linux and exploring open-source contributions.<br>💻 Languages & Tools: Python, JavaScript, Java, React, Git, Bash.<br><br>🧠 Always learning:<br>- Exploring cloud computing and containerization.<br>- Working on improving my problem-solving with competitive programming challenges.<br><br>🤝 Open to collaboration: <br>- Contributing to open-source projects.<br>- Building web applications and automated solutions.<br><br>📫 Let's connect:  <br>Feel free to reach out or collaborate on projects!</p>
+<p align="left">👨‍💻 Software Engineering Student | Tech Enthusiast | Linux Learner<br><br>👨‍🎓 I'm a passionate Software Engineering student, always eager to learn and grow.<br>💡 I enjoy solving complex problems and building projects with modern technologies.<br>
+
+<br>🤝 Open to collaboration: <br>- Contributing to open-source projects.<br>- Building web applications and automated solutions.<br><br>📫 Let's connect: 
+<br>Feel free to reach out or collaborate on projects!</p>
 
 Portfolio: [4rxivist.dev](https://my-portfolio-eta-one-85.vercel.app/)
 
