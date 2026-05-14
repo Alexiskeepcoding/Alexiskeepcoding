@@ -4,21 +4,25 @@
 
 <p align="left">👨‍💻 Software Engineering Student | Tech Enthusiast | Linux Learner<br><br>👨‍🎓 I'm a passionate Software Engineering student, always eager to learn and grow.<br>💡 I enjoy solving complex problems and building projects with modern technologies.<br>🚀 Currently, I'm diving deep into Linux and exploring open-source contributions.<br>💻 Languages & Tools: Python, JavaScript, Java, React, Git, Bash.<br><br>🧠 Always learning:<br>- Exploring cloud computing and containerization.<br>- Working on improving my problem-solving with competitive programming challenges.<br><br>🤝 Open to collaboration: <br>- Contributing to open-source projects.<br>- Building web applications and automated solutions.<br><br>📫 Let's connect:  <br>Feel free to reach out or collaborate on projects!</p>
 
-###
-
-<h2 align="left">🌐Socials:</h2>
+Portfolio: [4rxivist.dev](https://my-portfolio-eta-one-85.vercel.app/)
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexis-sotomayor-118b87219/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+# Notable achievements
+- 🏅First Place Banco de Alimentos Quito Hackathon (Development project)
+- 🏅Third Place at the Conecta Impacto Hackathon
+- 🌐Contributor to the CIPOA website – [CIPOA – VI Iberoamerican Conference](https://cipoaconference.org/)
+- 🌐 Honorable Mentions in the JISIC2025 Machine Learning Competition
+- 
 
-###
+# Made Projects
+- Management System for a Clinic (Management system for clinics with patient tracking, appointment scheduling, and administrative tools) / System Design
+- CryptoCAppCoinX – Web application for visualizing real-time cryptocurrency exchange prices. / Web development
+- SAVIO (Telegram bot for sales forecasting and historical sales analysis using predictive models)/ Machine Learning
+
+--> Template CV
+> 🚀 Currently building a modern web platform for creating and customizing professional CVs/resumes.  
+> 📄 Features include real-time editing, template customization, and PDF export.
 
 <h2 align="left">💻Stack Technologies:</h2>
 
